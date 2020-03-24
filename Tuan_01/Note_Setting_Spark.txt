@@ -1,0 +1,11 @@
+
+Cài đặt Java home
+Spark home
+Hadoop home
+
+Chep winutils vào Bin của Spark
+sau đó mở cmd quyền admin:
+
+
+winutils.exe chmod -R 777 C:\tmp\hive
+winutils.exe ls -F C:\tmp\hive
